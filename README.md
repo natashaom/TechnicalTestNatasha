@@ -43,6 +43,8 @@ Methods(polymorphism):
 
 The project in visual studio created automatically the js files when I created a new ts file, but the ones that matters are the .ts
 
-For a better visual comprehension I added the UML diagram into the repository file(InterlangUML).
+For a better visual comprehension here's the UML Diagram(InterlangUML).
+
+![InterlangUML](https://github.com/natashaom/TechnicalTestNatasha/blob/main/InterlangUML.png)
 
 Thanks for the time.
